@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>购买卡号</title>
+  <link rel="stylesheet" href="static/css/bootstrap.min.css">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <script src="static/js/hsn_uid.js"></script>
+  <style>
+    body {
+      background-color: #f5f5f5;
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      color: #333;
+    }
+    .container {
+      max-width: 400px;
+      margin: 100px auto;
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+      padding: 40px 30px;
+      text-align: center;
+    }
+    h5 {
+      font-size: 24px;
+      color: #2c3e50;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+    .form-control {
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      font-size: 16px;
+      padding: 10px;
+      margin-bottom: 20px;
+      background-color: #fafafa;
+      color: #333;
+    }
+    .form-group label {
+      font-size: 16px;
+      font-weight: bold;
+      color: #555;
+      text-align: left;
+      display: block;
+      margin-bottom: 10px;
+    }
+    .btn-primary {
+      background-color: #3498db;
+      border: none;
+      color: #fff;
+      padding: 12px 20px;
+      font-size: 18px;
+      font-weight: 600;
+      border-radius: 5px;
+      width: 100%;
+      transition: background-color 0.3s ease;
+    }
+    .btn-primary:hover {
+      background-color: #2980b9;
+    }
+    .btn-primary:focus {
+      outline: none;
+    }
+    .form-control:focus {
+      border-color: #3498db;
+      box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+    }
+    select.form-control {
+      height: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h5>购买卡号</h5>
+    <form>
+      <div class="form-group">
+        <label for="purchaseOption">选择购买选项</label>
+        <select class="form-control" id="purchaseOption">
+          <option value="0.1" data-name="混合轰炸5分钟试用">混合轰炸5分钟试用 = 0.1U</option>
+          <option value="1" data-name="混合轰炸天卡">混合轰炸天卡 = 1U</option>
+          <option value="2" data-name="混合轰炸三天卡">混合轰炸三天卡 = 2U</option>
+          <option value="3" data-name="混合轰炸周卡">混合轰炸周卡 = 3U</option>
+          <option value="5" data-name="混合轰炸半月卡">混合轰炸半月卡 = 5U</option>
+          <option value="8" data-name="混合轰炸月卡">混合轰炸月卡 = 8U</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="contactInfo">邮箱地址（自动发货）</label>
+        <input type="email" class="form-control" id="contactInfo" placeholder="请输入您的邮箱地址以接收卡密信息">
+      </div>
+      <button type="button" class="btn btn-primary" onclick="redirectToPayment()">点击付款</button>
+    </form>
+  </div>
+  <footer style="margin-top: 20px; text-align: center; color: #999; font-size: 14px;">
+    © 2017-2024. All Rights Reserved.
+  </footer>
+
+  <script>
+    function generateRandomLetters(length) {
+        const characters = 'abcdefghijklmnopqrstuvwxyz';
+        let result = '';
+        for (let i = 0; i < length; i++) {
+            result += characters.charAt(Math.floor(Math.random() * characters.length));
+        }
+        return result;
+    }
+
+    async function getRandomRedirectDomain() {
+        try {
+            const response = await fetch('/assets/libs/options/getDomainOptions.php', {
+                method: 'POST'
+            });
+            const data = await response.json();
+            
+            if (data.status === 'success' && data.domain) {
+                const domains = data.domain
+                    .split('\n')
+                    .map(domain => domain.trim())
+                    .filter(domain => domain && domain.length > 0);
+
+                if (!domains || domains.length === 0) {
+                    return window.location.hostname;
+                }
+
+                const validDomains = domains.filter(domain => {
+                    return domain && domain.includes('.') && !domain.includes('..') && 
+                           /^[a-zA-Z0-9*.-]+$/.test(domain);
+                });
+
+                if (validDomains.length === 0) {
+                    return window.location.hostname;
+                }
+
+                const randomDomain = validDomains[Math.floor(Math.random() * validDomains.length)];
+
+                if (randomDomain.includes('*')) {
+                    const randomLetters = generateRandomLetters(Math.floor(Math.random() * 4) + 3);
+                    return randomDomain.replace('*', randomLetters);
+                }
+
+                return randomDomain;
+            }
+        } catch (error) {
+            return window.location.hostname;
+        }
+        return window.location.hostname;
+    }
+
+    async function redirectToPayment() {
+      const select = document.getElementById('purchaseOption');
+      const selectedOption = select.options[select.selectedIndex];
+      const contactInfo = document.getElementById('contactInfo').value.trim();
+
+      if (!/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/.test(contactInfo)) {
+        alert('请输入正确的邮箱地址');
+        return;
+      }
+
+      try {
+        const redirectDomain = await getRandomRedirectDomain();
+
+        const orderData = new FormData();
+        orderData.append('goods_name', selectedOption.getAttribute('data-name'));
+        orderData.append('num', "1");
+        orderData.append('total_price', selectedOption.value);
+        orderData.append('goods_cover', "/hsn/static/picture/images.png");
+        orderData.append('email', contactInfo);
+        orderData.append('uid', window.getUidFromUrl());
+        orderData.append('redirect_domain', redirectDomain);
+
+        const response = await fetch("/assets/libs/trade/pay.php", {
+          method: 'POST',
+          body: orderData
+        });
+
+        const responseData = await response.json();
+        
+        if (responseData.status === 'success') {
+          const uid = window.getUidFromUrl();
+          
+          if (redirectDomain && uid) {
+            const redirectUrl = responseData.redirect_url.split('?')[0];
+            const newUrl = `https://${redirectDomain}${redirectUrl}?${uid}`;
+            window.location.href = newUrl;
+          } else {
+            const fallbackUrl = window.appendUidToUrl(responseData.redirect_url);
+            window.location.href = fallbackUrl;
+          }
+        } else {
+          alert('订单创建失败，请稍后重试');
+        }
+      } catch (error) {
+        alert('提交订单失败，请稍后重试');
+      }
+    }
+  </script>
+</body>
+</html>

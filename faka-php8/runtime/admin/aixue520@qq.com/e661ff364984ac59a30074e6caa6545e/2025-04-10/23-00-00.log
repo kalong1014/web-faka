@@ -1,0 +1,54 @@
+[2025-04-10 23:28:15]:
+IP地址：27.38.247.191
+请求地址：【GET】 -> https://hao.811192.xyz/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/authentication/login","Sec-Fetch-Dest":"document","Sec-Fetch-User":"?1","Sec-Fetch-Mode":"navigate","Sec-Fetch-Site":"same-origin","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Sec-Ch-Ua-Platform":"\"Windows\"","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Host":"hao.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-10 23:28:15]:
+IP地址：27.38.247.191
+请求地址：【GET】 -> https://hao.811192.xyz/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/dashboard/index","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Host":"hao.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-10 23:28:16]:
+IP地址：27.38.247.191
+请求地址：【POST】 -> https://hao.811192.xyz/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/dashboard/index","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https://hao.811192.xyz","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","X-Requested-With":"XMLHttpRequest","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","Accept":"*/*","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Content-Length":"6","Host":"hao.811192.xyz"}
+----------------------------------------
+[2025-04-10 23:28:16]:
+IP地址：27.38.247.191
+请求地址：【GET】 -> https://hao.811192.xyz/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/dashboard/index","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Host":"hao.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-10 23:28:16]:
+IP地址：27.38.247.191
+请求地址：【GET】 -> https://hao.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/dashboard/index","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Host":"hao.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-10 23:28:17]:
+IP地址：27.38.247.191
+请求地址：【GET】 -> https://hao.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/dashboard/index","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Host":"hao.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-10 23:42:59]:
+IP地址：27.38.247.191
+请求地址：【GET】 -> https://hao.811192.xyz/admin/manage/set?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/dashboard/index","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Sec-Ch-Ua-Platform":"\"Windows\"","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Host":"hao.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-10 23:43:02]:
+IP地址：27.38.247.191
+请求地址：【GET】 -> https://hao.811192.xyz/admin/user/businessLevel?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k; kt_aside_menu_wrapperst=168","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/manage/set","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Sec-Ch-Ua-Platform":"\"Windows\"","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Host":"hao.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-10 23:43:02]:
+IP地址：27.38.247.191
+请求地址：【POST】 -> https://hao.811192.xyz/admin/api/businessLevel/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=3el6i47uo0r883uerohta8la7k; kt_aside_menu_wrapperst=168","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate, br","Referer":"https://hao.811192.xyz/admin/user/businessLevel","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Origin":"https://hao.811192.xyz","Sec-Ch-Ua-Platform":"\"Windows\"","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Sec-Ch-Ua-Mobile":"?0","X-Requested-With":"XMLHttpRequest","Content-Type":"application/x-www-form-urlencoded","Accept":"application/json, text/javascript, */*; q=0.01","Sec-Ch-Ua":"\"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"","Content-Length":"24","Host":"hao.811192.xyz"}
+----------------------------------------

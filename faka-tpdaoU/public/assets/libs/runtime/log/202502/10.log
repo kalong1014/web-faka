@@ -1,0 +1,75 @@
+---------------------------------------------------------------
+[ 2025-02-10T00:09:57+08:00 ] 47.129.4.252 POST buwgm.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.026980s] [吞吐率：37.06req/s] [内存消耗：1,154.50kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T00:09:58+08:00 ] 47.129.4.252 POST buwgm.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.028149s] [吞吐率：35.53req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T01:15:11+08:00 ] 46.137.239.17 POST buwgm.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.025763s] [吞吐率：38.82req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T01:15:11+08:00 ] 46.137.239.17 POST buwgm.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.030952s] [吞吐率：32.31req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T03:24:35+08:00 ] 107.148.128.120 POST buwgm.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.028062s] [吞吐率：35.64req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T03:24:35+08:00 ] 107.148.128.120 POST buwgm.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.028805s] [吞吐率：34.72req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T03:24:48+08:00 ] 182.239.121.207 POST lnnen.2ub7ka.shop/assets/libs/jiaoyi/bot.php
+[运行时间：0.854246s] [吞吐率：1.17req/s] [内存消耗：1,179.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T03:24:49+08:00 ] 182.239.121.207 POST lnnen.2ub7ka.shop/assets/libs/options/insertFish.php
+[运行时间：0.024402s] [吞吐率：40.98req/s] [内存消耗：1,144.98kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T03:40:02+08:00 ] 107.148.128.120 POST buwgm.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.033210s] [吞吐率：30.11req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T03:40:02+08:00 ] 107.148.128.120 POST buwgm.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.030131s] [吞吐率：33.19req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T12:17:09+08:00 ] 168.138.173.44 POST fwwc.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.027529s] [吞吐率：36.33req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T12:17:10+08:00 ] 168.138.173.44 POST fwwc.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.031195s] [吞吐率：32.06req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T12:17:47+08:00 ] 168.138.173.44 POST qsle.2ub7ka.shop/assets/libs/jiaoyi/bot.php
+[运行时间：1.041240s] [吞吐率：0.96req/s] [内存消耗：1,179.24kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T19:21:14+08:00 ] 112.96.181.231 POST fwwc.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.025389s] [吞吐率：39.39req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-10T19:21:15+08:00 ] 112.96.181.231 POST fwwc.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.030196s] [吞吐率：33.12req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

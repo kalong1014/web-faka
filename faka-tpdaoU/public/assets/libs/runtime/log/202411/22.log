@@ -1,0 +1,80 @@
+---------------------------------------------------------------
+[ 2024-11-22T14:31:46+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.031792s] [吞吐率：31.45req/s] [内存消耗：1,097.31kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:31:46+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.029703s] [吞吐率：33.67req/s] [内存消耗：1,151.69kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:41:49+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.027225s] [吞吐率：36.73req/s] [内存消耗：1,097.20kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:41:49+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.028808s] [吞吐率：34.71req/s] [内存消耗：1,151.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:51:08+08:00 ] 157.20.53.50 POST www.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.025111s] [吞吐率：39.82req/s] [内存消耗：1,097.20kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:51:08+08:00 ] 157.20.53.50 POST www.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.029286s] [吞吐率：34.15req/s] [内存消耗：1,151.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:52:31+08:00 ] 103.97.2.15 POST www.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.031877s] [吞吐率：31.37req/s] [内存消耗：1,097.20kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:52:32+08:00 ] 103.97.2.15 POST www.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.026216s] [吞吐率：38.14req/s] [内存消耗：1,151.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:56:12+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.022554s] [吞吐率：44.34req/s] [内存消耗：1,097.20kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:56:13+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.024277s] [吞吐率：41.19req/s] [内存消耗：1,151.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:59:33+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.024346s] [吞吐率：41.07req/s] [内存消耗：1,097.17kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T14:59:33+08:00 ] 23.164.184.234 POST mptlpt.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.027751s] [吞吐率：36.03req/s] [内存消耗：1,151.63kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T16:19:05+08:00 ] 111.243.90.222 POST www.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.031447s] [吞吐率：31.80req/s] [内存消耗：1,097.20kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T16:19:06+08:00 ] 111.243.90.222 POST www.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.028732s] [吞吐率：34.80req/s] [内存消耗：1,151.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T19:48:07+08:00 ] 205.198.121.90 POST www.jdecard.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.027851s] [吞吐率：35.91req/s] [内存消耗：1,097.20kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-22T19:48:07+08:00 ] 205.198.121.90 POST www.jdecard.shop/assets/libs/trade/pay.php
+[运行时间：0.028494s] [吞吐率：35.10req/s] [内存消耗：1,151.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

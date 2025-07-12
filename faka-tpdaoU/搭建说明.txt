@@ -1,0 +1,11 @@
+Nginx+php7.4+mysql5.7
+
+数据库修改/application /database.php
+
+运行目录设置public
+
+伪静态设置thinkPHP
+
+后台  域名/admin.php  
+
+账号admin   密码admin123456

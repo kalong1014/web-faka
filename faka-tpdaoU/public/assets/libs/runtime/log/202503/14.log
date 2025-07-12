@@ -1,0 +1,95 @@
+---------------------------------------------------------------
+[ 2025-03-14T06:51:37+08:00 ] 182.118.237.22 POST ahyh.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.026321s] [吞吐率：37.99req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T06:51:37+08:00 ] 182.118.237.22 POST ahyh.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.028797s] [吞吐率：34.73req/s] [内存消耗：1,211.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T07:22:44+08:00 ] 152.53.82.100 POST ynkd.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.025720s] [吞吐率：38.88req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T07:22:45+08:00 ] 152.53.82.100 POST ynkd.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.027518s] [吞吐率：36.34req/s] [内存消耗：1,211.66kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T07:23:03+08:00 ] 152.53.82.100 POST vsd.93662.vip/assets/libs/jiaoyi/bot.php
+[运行时间：1.026334s] [吞吐率：0.97req/s] [内存消耗：1,179.03kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T07:23:22+08:00 ] 152.53.82.100 POST vsd.93662.vip/assets/libs/jiaoyi/bot.php
+[运行时间：1.100689s] [吞吐率：0.91req/s] [内存消耗：1,179.03kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T07:23:24+08:00 ] 152.53.82.100 POST vsd.93662.vip/assets/libs/options/insertFish.php
+[运行时间：0.032699s] [吞吐率：30.58req/s] [内存消耗：1,144.70kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T15:27:43+08:00 ] 107.174.218.221 POST www.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.028318s] [吞吐率：35.31req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T15:27:43+08:00 ] 107.174.218.221 POST www.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.032243s] [吞吐率：31.01req/s] [内存消耗：1,211.70kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T17:34:55+08:00 ] 101.44.81.202 POST nuuzje.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.038470s] [吞吐率：25.99req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T17:34:55+08:00 ] 101.44.81.202 POST nuuzje.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.039000s] [吞吐率：25.64req/s] [内存消耗：1,211.63kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T17:35:49+08:00 ] 203.160.72.87 POST nuuzje.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.033183s] [吞吐率：30.14req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T17:35:49+08:00 ] 203.160.72.87 POST nuuzje.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.036447s] [吞吐率：27.44req/s] [内存消耗：1,211.63kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T17:37:01+08:00 ] 203.160.72.87 POST nuuzje.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.031218s] [吞吐率：32.03req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T17:37:01+08:00 ] 203.160.72.87 POST nuuzje.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.032364s] [吞吐率：30.90req/s] [内存消耗：1,211.70kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T21:42:53+08:00 ] 38.77.156.117 POST nalpe.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.031297s] [吞吐率：31.95req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T21:42:54+08:00 ] 38.77.156.117 POST nalpe.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.031550s] [吞吐率：31.70req/s] [内存消耗：1,211.63kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T22:37:39+08:00 ] 38.77.156.117 POST nalpe.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.039387s] [吞吐率：25.39req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-14T22:37:40+08:00 ] 38.77.156.117 POST nalpe.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.045480s] [吞吐率：21.99req/s] [内存消耗：1,211.63kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

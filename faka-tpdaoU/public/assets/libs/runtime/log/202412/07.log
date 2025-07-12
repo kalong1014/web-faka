@@ -1,0 +1,40 @@
+---------------------------------------------------------------
+[ 2024-12-07T12:10:54+08:00 ] 43.228.226.15 POST lbbzlu.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.030566s] [吞吐率：32.72req/s] [内存消耗：1,151.67kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-07T12:11:16+08:00 ] 43.228.226.15 POST lbbzlu.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.027154s] [吞吐率：36.83req/s] [内存消耗：1,151.67kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-07T12:11:37+08:00 ] 43.228.226.15 POST lbbzlu.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.025308s] [吞吐率：39.51req/s] [内存消耗：1,151.67kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-07T13:12:02+08:00 ] 103.97.2.74 POST cbyf.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.045848s] [吞吐率：21.81req/s] [内存消耗：1,151.67kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-07T13:12:34+08:00 ] 103.97.2.74 POST kuqlw.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.030308s] [吞吐率：32.99req/s] [内存消耗：1,151.70kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-07T13:13:24+08:00 ] 103.97.2.74 POST cbyf.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.035417s] [吞吐率：28.24req/s] [内存消耗：1,151.67kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-07T14:20:54+08:00 ] 43.231.232.100 POST www.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.033104s] [吞吐率：30.21req/s] [内存消耗：1,151.69kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-07T14:21:04+08:00 ] 43.231.232.100 POST www.byshop.vip/assets/libs/trade/pay.php
+[运行时间：0.025049s] [吞吐率：39.92req/s] [内存消耗：1,151.69kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

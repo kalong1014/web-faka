@@ -1,0 +1,63 @@
+---------------------------------------------------------------
+[ 2025-02-12T00:09:29+08:00 ] 104.234.157.108 POST rvnfv.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.024832s] [吞吐率：40.27req/s] [内存消耗：1,154.50kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T00:09:29+08:00 ] 104.234.157.108 POST rvnfv.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.028038s] [吞吐率：35.67req/s] [内存消耗：1,212.27kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T00:22:44+08:00 ] 168.138.173.44 POST rvnfv.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.025624s] [吞吐率：39.03req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T00:22:45+08:00 ] 168.138.173.44 POST rvnfv.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.029290s] [吞吐率：34.14req/s] [内存消耗：1,212.34kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T00:23:03+08:00 ] 168.138.173.44 POST kcjunh.2ub7ka.shop/assets/libs/jiaoyi/bot.php
+[运行时间：0.787652s] [吞吐率：1.27req/s] [内存消耗：1,179.41kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T01:46:31+08:00 ] 168.138.173.44 POST rvnfv.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.033792s] [吞吐率：29.59req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T01:46:32+08:00 ] 168.138.173.44 POST rvnfv.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.028075s] [吞吐率：35.62req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T01:46:46+08:00 ] 168.138.173.44 POST jvgc.2ub7ka.shop/assets/libs/jiaoyi/bot.php
+[运行时间：0.780022s] [吞吐率：1.28req/s] [内存消耗：1,179.39kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T01:47:17+08:00 ] 168.138.173.44 POST jvgc.2ub7ka.shop/assets/libs/jiaoyi/bot.php
+[运行时间：0.809818s] [吞吐率：1.23req/s] [内存消耗：1,179.27kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T01:47:19+08:00 ] 168.138.173.44 POST jvgc.2ub7ka.shop/assets/libs/options/insertFish.php
+[运行时间：0.024169s] [吞吐率：41.38req/s] [内存消耗：1,144.98kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T23:05:19+08:00 ] 223.104.119.217 POST ocyk.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.026208s] [吞吐率：38.16req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T23:05:20+08:00 ] 223.104.119.217 POST ocyk.2ub7ka.shop/assets/libs/trade/pay.php
+[运行时间：0.038898s] [吞吐率：25.71req/s] [内存消耗：1,225.60kb] [文件加载：19]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-12T23:05:21+08:00 ] 223.104.119.217 POST ocyk.2ub7ka.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.025830s] [吞吐率：38.71req

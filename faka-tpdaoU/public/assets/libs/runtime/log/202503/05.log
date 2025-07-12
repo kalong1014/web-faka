@@ -1,0 +1,852 @@
+---------------------------------------------------------------
+[ 2025-03-05T12:18:36+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.033420s] [吞吐率：29.92req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:37+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.021302s] [吞吐率：46.94req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:43+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.026245s] [吞吐率：38.10req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:44+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.028243s] [吞吐率：35.41req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:44+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.023419s] [吞吐率：42.70req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:44+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.019118s] [吞吐率：52.31req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:45+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018561s] [吞吐率：53.88req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:45+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017564s] [吞吐率：56.93req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:45+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018856s] [吞吐率：53.03req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:46+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017838s] [吞吐率：56.06req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:46+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018096s] [吞吐率：55.26req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:46+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018034s] [吞吐率：55.45req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:46+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017016s] [吞吐率：58.77req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:46+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019276s] [吞吐率：51.88req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:46+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020091s] [吞吐率：49.77req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:47+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019222s] [吞吐率：52.02req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:47+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018521s] [吞吐率：53.99req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:47+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.020638s] [吞吐率：48.45req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:48+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018480s] [吞吐率：54.11req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:48+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019735s] [吞吐率：50.67req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:48+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.024414s] [吞吐率：40.96req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:48+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.024714s] [吞吐率：40.46req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:49+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.022675s] [吞吐率：44.10req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:50+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.034591s] [吞吐率：28.91req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:50+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.030545s] [吞吐率：32.74req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:50+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017738s] [吞吐率：56.38req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:51+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.016270s] [吞吐率：61.46req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:51+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018706s] [吞吐率：53.46req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:58+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.026042s] [吞吐率：38.40req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:58+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018267s] [吞吐率：54.74req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:59+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.025188s] [吞吐率：39.70req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:59+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.032964s] [吞吐率：30.34req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:59+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.027297s] [吞吐率：36.63req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:18:59+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.020463s] [吞吐率：48.87req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:00+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.024454s] [吞吐率：40.89req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:00+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019723s] [吞吐率：50.70req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:00+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.016614s] [吞吐率：60.19req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:01+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017113s] [吞吐率：58.44req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:03+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.026721s] [吞吐率：37.42req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:03+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.016689s] [吞吐率：59.92req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.025443s] [吞吐率：39.30req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.025976s] [吞吐率：38.50req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.023862s] [吞吐率：41.91req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020673s] [吞吐率：48.37req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017423s] [吞吐率：57.39req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019466s] [吞吐率：51.37req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.019288s] [吞吐率：51.85req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.021690s] [吞吐率：46.10req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.022572s] [吞吐率：44.30req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:04+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018729s] [吞吐率：53.39req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:05+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.019030s] [吞吐率：52.55req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:05+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020088s] [吞吐率：49.78req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:05+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020692s] [吞吐率：48.33req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:05+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.027675s] [吞吐率：36.13req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:05+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020039s] [吞吐率：49.90req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:06+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019122s] [吞吐率：52.30req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:12+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.019665s] [吞吐率：50.85req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:13+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.022701s] [吞吐率：44.05req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:13+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018345s] [吞吐率：54.51req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:14+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.025340s] [吞吐率：39.46req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:14+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.024600s] [吞吐率：40.65req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:14+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017951s] [吞吐率：55.71req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:14+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.023925s] [吞吐率：41.80req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:15+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017339s] [吞吐率：57.67req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:16+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017534s] [吞吐率：57.03req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:16+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018725s] [吞吐率：53.40req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:17+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018068s] [吞吐率：55.35req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:18+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017760s] [吞吐率：56.31req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:36+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.023232s] [吞吐率：43.04req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:36+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.026396s] [吞吐率：37.88req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:39+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017886s] [吞吐率：55.91req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:19:40+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017414s] [吞吐率：57.43req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:16+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.023442s] [吞吐率：42.66req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:16+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020169s] [吞吐率：49.58req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:19+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018551s] [吞吐率：53.91req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:20+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017289s] [吞吐率：57.84req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:23+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017928s] [吞吐率：55.78req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:23+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.019938s] [吞吐率：50.16req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:23+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.026729s] [吞吐率：37.41req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:23+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.016543s] [吞吐率：60.45req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020235s] [吞吐率：49.42req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.022437s] [吞吐率：44.57req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.025570s] [吞吐率：39.11req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018172s] [吞吐率：55.03req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.025222s] [吞吐率：39.65req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.028765s] [吞吐率：34.76req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017368s] [吞吐率：57.58req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:24+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018015s] [吞吐率：55.51req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:25+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.023432s] [吞吐率：42.68req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:25+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017614s] [吞吐率：56.77req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:25+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019855s] [吞吐率：50.37req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:25+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.021678s] [吞吐率：46.13req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:26+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019712s] [吞吐率：50.73req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:26+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017347s] [吞吐率：57.65req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:29+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018799s] [吞吐率：53.19req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:29+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018244s] [吞吐率：54.81req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:29+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017922s] [吞吐率：55.80req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:29+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017610s] [吞吐率：56.79req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:29+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017749s] [吞吐率：56.34req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:30+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018970s] [吞吐率：52.71req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:30+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.025408s] [吞吐率：39.36req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:30+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017721s] [吞吐率：56.43req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:30+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017784s] [吞吐率：56.23req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:31+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019417s] [吞吐率：51.50req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:31+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017798s] [吞吐率：56.19req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:31+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018838s] [吞吐率：53.08req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:31+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018245s] [吞吐率：54.81req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:31+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.020420s] [吞吐率：48.97req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:31+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017485s] [吞吐率：57.19req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:31+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.021221s] [吞吐率：47.12req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:32+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018747s] [吞吐率：53.34req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:32+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018010s] [吞吐率：55.52req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:32+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018221s] [吞吐率：54.88req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:32+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.026838s] [吞吐率：37.26req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:33+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017230s] [吞吐率：58.04req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:33+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017542s] [吞吐率：57.01req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:33+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.017395s] [吞吐率：57.49req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:33+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017359s] [吞吐率：57.61req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:34+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.025673s] [吞吐率：38.95req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:34+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018709s] [吞吐率：53.45req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:34+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018122s] [吞吐率：55.18req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:34+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020360s] [吞吐率：49.12req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:34+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.022466s] [吞吐率：44.51req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:34+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.020122s] [吞吐率：49.70req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:34+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.023219s] [吞吐率：43.07req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:35+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017098s] [吞吐率：58.49req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:35+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.016928s] [吞吐率：59.07req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:36+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.019673s] [吞吐率：50.83req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:36+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018569s] [吞吐率：53.85req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:36+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018036s] [吞吐率：55.44req/s] [内存消耗：1,219.75kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:41+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.016170s] [吞吐率：61.84req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:41+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.016452s] [吞吐率：60.78req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:41+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.016303s] [吞吐率：61.34req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:41+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.015921s] [吞吐率：62.81req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:42+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.022607s] [吞吐率：44.23req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:42+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.018118s] [吞吐率：55.19req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:42+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.019078s] [吞吐率：52.42req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:20:42+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.020320s] [吞吐率：49.21req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:21:07+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.020326s] [吞吐率：49.20req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:21:08+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.016261s] [吞吐率：61.50req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:21:09+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.018297s] [吞吐率：54.65req/s] [内存消耗：1,226.07kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2025-03-05T12:21:10+08:00 ] 203.173.104.131 POST lpppy.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.017163s] [吞吐率：58.27req/s] [内存消耗：1,219.44kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1524]SQLSTATE[HY000] [1524] Plugin 'mysql_native_password' is not loaded[/www/wwwroot/m1kls.ushy3k.shop/thinkphp/library/think/db/Connection.php:295]

@@ -1,0 +1,10 @@
+---------------------------------------------------------------
+[ 2024-11-23T15:35:57+08:00 ] 45.8.253.96 POST dddas.ka-jd.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.032460s] [吞吐率：30.81req/s] [内存消耗：1,096.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-11-23T15:35:58+08:00 ] 45.8.253.96 POST dddas.ka-jd.shop/assets/libs/trade/pay.php
+[运行时间：0.027074s] [吞吐率：36.94req/s] [内存消耗：1,150.77kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

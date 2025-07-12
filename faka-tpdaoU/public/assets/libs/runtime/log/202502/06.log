@@ -1,0 +1,60 @@
+---------------------------------------------------------------
+[ 2025-02-06T00:49:46+08:00 ] 182.239.92.129 POST 188.ushy3k.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.030223s] [吞吐率：33.09req/s] [内存消耗：1,154.61kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T00:49:47+08:00 ] 182.239.92.129 POST 188.ushy3k.shop/assets/libs/trade/pay.php
+[运行时间：0.029010s] [吞吐率：34.47req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T00:53:45+08:00 ] 182.239.92.129 POST 188.ushy3k.shop/assets/libs/jiaoyi/bot.php
+[运行时间：0.845027s] [吞吐率：1.18req/s] [内存消耗：1,179.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T00:55:54+08:00 ] 182.239.92.129 POST 188.ushy3k.shop/assets/libs/jiaoyi/bot.php
+[运行时间：0.847795s] [吞吐率：1.18req/s] [内存消耗：1,179.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T13:15:46+08:00 ] 182.239.92.156 POST 188.ushy3k.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.026930s] [吞吐率：37.13req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T13:15:47+08:00 ] 182.239.92.156 POST 188.ushy3k.shop/assets/libs/trade/pay.php
+[运行时间：0.037263s] [吞吐率：26.84req/s] [内存消耗：1,212.27kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T13:16:52+08:00 ] 182.239.92.156 POST 188.ushy3k.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.028538s] [吞吐率：35.04req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T13:16:53+08:00 ] 182.239.92.156 POST 188.ushy3k.shop/assets/libs/trade/pay.php
+[运行时间：0.039296s] [吞吐率：25.45req/s] [内存消耗：1,212.34kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T19:51:03+08:00 ] 217.145.75.130 POST 188.ushy3k.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.028380s] [吞吐率：35.24req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T19:51:03+08:00 ] 217.145.75.130 POST 188.ushy3k.shop/assets/libs/trade/pay.php
+[运行时间：0.032156s] [吞吐率：31.10req/s] [内存消耗：1,212.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T20:14:35+08:00 ] 217.145.75.130 POST 188.ushy3k.shop/assets/libs/options/getDomainOptions.php
+[运行时间：0.027321s] [吞吐率：36.60req/s] [内存消耗：1,154.52kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-02-06T20:14:35+08:00 ] 217.145.75.130 POST 188.ushy3k.shop/assets/libs/trade/pay.php
+[运行时间：0.031739s] [吞吐率：31.51req/s] [内存消耗：1,212.34kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

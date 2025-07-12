@@ -1,0 +1,45 @@
+---------------------------------------------------------------
+[ 2025-03-12T04:26:44+08:00 ] 66.249.66.41 GET www.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.032683s] [吞吐率：30.60req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:22:24+08:00 ] 194.99.79.71 POST nuuzje.93662.vip/assets/libs/options/getDomainOptions.php
+[运行时间：0.028372s] [吞吐率：35.25req/s] [内存消耗：1,154.28kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:22:25+08:00 ] 194.99.79.71 POST nuuzje.93662.vip/assets/libs/trade/pay.php
+[运行时间：0.030734s] [吞吐率：32.54req/s] [内存消耗：1,212.07kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:22:35+08:00 ] 194.99.79.71 POST dbtvd.93662.vip/assets/libs/options/insertFish.php
+[运行时间：0.029915s] [吞吐率：33.43req/s] [内存消耗：1,144.70kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:22:37+08:00 ] 194.99.79.71 POST dbtvd.93662.vip/assets/libs/jiaoyi/bot.php
+[运行时间：0.825490s] [吞吐率：1.21req/s] [内存消耗：1,179.04kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:26:47+08:00 ] 103.151.172.30 POST dbtvd.93662.vip/assets/libs/jiaoyi/bot.php
+[运行时间：0.808466s] [吞吐率：1.24req/s] [内存消耗：1,179.04kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:26:53+08:00 ] 103.151.172.30 POST dbtvd.93662.vip/assets/libs/options/insertFish.php
+[运行时间：0.032696s] [吞吐率：30.58req/s] [内存消耗：1,144.70kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:27:24+08:00 ] 103.151.172.30 POST dbtvd.93662.vip/assets/libs/options/insertFish.php
+[运行时间：0.034242s] [吞吐率：29.20req/s] [内存消耗：1,144.70kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2025-03-12T20:27:25+08:00 ] 103.151.172.30 POST dbtvd.93662.vip/assets/libs/jiaoyi/bot.php
+[运行时间：0.807707s] [吞吐率：1.24req/s] [内存消耗：1,179.04kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

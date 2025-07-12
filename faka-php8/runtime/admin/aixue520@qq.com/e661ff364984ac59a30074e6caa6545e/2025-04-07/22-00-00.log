@@ -1,0 +1,1356 @@
+[2025-04-07 22:23:19]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/dashboard/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:23:21]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/ad
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:23:23]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/dashboard/data
+POST数据：{"type":"0"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/dashboard/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"6","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:23:23]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/dashboard/weekStatistics
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:23:25]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:23:26]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/dashboard/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:23:29]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/manage/set?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/dashboard/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:27:52]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/upload/handle
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","Origin":"http://ka.811192.xyz","Content-Type":"multipart/form-data; boundary=----WebKitFormBoundaryc4XtIABWb9SKSN5k","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"93180","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:27:56]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/manage/set
+POST数据：{"avatar":"/assets/cache/images/202504072227522973035.jpg","nickname":"loveyou","old_password":"","password":"","re_password":""}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"115","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:28:03]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/manage/set
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:09]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:10]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:17]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:28:22]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/upload/handle
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"multipart/form-data; boundary=----WebKitFormBoundarydAJaEU7AhMKKOibU","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"93180","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:28:25]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/setting
+POST数据：{"logo":"/favicon.ico","user_theme":"Cartoon","user_mobile_theme":"0","background_url":"/assets/cache/images/202504072228229150778.jpg","background_mobile_url":"","shop_name":"异次元店铺","title":"异次元店铺 - 最适合你的个人店铺系统！","keywords":"","description":"","notice":"<p><b><font color=\"#f9963b\">本程序为开源程序，使用者造成的一切法律后果与作者无关。</font></b></p>","registered_type":"0","registered_verification":"1","login_verification":"1","trade_verification":"1","registered_state":"1","username_len":"6","forget_type":"0","closed_message":"我们正在升级，请耐心等待完成。"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"1010","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:28:32]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/authentication/login","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:37]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:37]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:51]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/setThemeConfig
+POST数据：{"style":"1","cache":"0","cache_expire":"60","icp":"","id":"Cartoon"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"47","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:28:52]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:52]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:52]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:58]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/setThemeConfig
+POST数据：{"style":"2","cache":"0","cache_expire":"60","icp":"","id":"Cartoon"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"47","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:28:58]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:59]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:28:59]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:31:11]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/setting
+POST数据：{"logo":"/favicon.ico","user_theme":"Cartoon","user_mobile_theme":"0","background_url":"/assets/cache/images/202504072228229150778.jpg","background_mobile_url":"","shop_name":"出海舰队","title":"出海舰队 - 最适合你的出海店铺系统！","keywords":"","description":"出海舰队","notice":"<p><b><font color=\"#f9963b\">本站为开放式注册平台，使用者造成的一切法律后果与本站无关，本站会不定期抽查各店铺违规违法情况，一经发现永久冻结店铺。</font></b></p>","registered_type":"0","registered_verification":"1","login_verification":"1","trade_verification":"1","registered_state":"1","username_len":"6","forget_type":"0","closed_message":"我们正在升级，请耐心等待完成。"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"1307","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:31:22]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/upload/handle
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"multipart/form-data; boundary=----WebKitFormBoundaryn0R1uTprdyBqvPLi","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"93180","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:32:23]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/upload/handle
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"multipart/form-data; boundary=----WebKitFormBoundaryb7Aml6KjYApKc6G3","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"95044","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:32:30]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/setting
+POST数据：{"logo":"/assets/cache/images/202504072232235869537.jpg","user_theme":"Cartoon","user_mobile_theme":"0","background_url":"/assets/cache/images/202504072228229150778.jpg","background_mobile_url":"","shop_name":"出海舰队","title":"出海舰队 - 最适合你的出海店铺系统！","keywords":"","description":"出海舰队","notice":"<p><b><font color=\"#f9963b\">本站为开放式注册平台，使用者造成的一切法律后果与本站无关，本站会不定期抽查各店铺违规违法情况，一经发现永久冻结店铺。</font></b></p>","registered_type":"0","registered_verification":"1","login_verification":"1","trade_verification":"1","registered_state":"1","username_len":"6","forget_type":"0","closed_message":"我们正在升级，请耐心等待完成。"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"1347","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:32:34]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/manage/set?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:32:45]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/upload/handle
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","Origin":"http://ka.811192.xyz","Content-Type":"multipart/form-data; boundary=----WebKitFormBoundaryhNLMpqLFysFxiHXZ","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"95044","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:32:47]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/manage/set
+POST数据：{"avatar":"/assets/cache/images/202504072232457579058.jpg","nickname":"loveyou","old_password":"","password":"","re_password":""}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"115","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:32:55]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/log/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/set","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:32:55]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/log/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:32:59]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/log/clear
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:32:59]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/log/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:33:03]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/log/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:08]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:08]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:08]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/log/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Cache-Control":"no-cache","Pragma":"no-cache","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:33:09]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:33:17]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/setThemeConfig
+POST数据：{"style":"1","cache":"0","cache_expire":"60","icp":"","id":"Cartoon"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"47","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:33:17]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:17]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:18]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:23]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/setting
+POST数据：{"logo":"/favicon.ico","user_theme":"Cartoon","user_mobile_theme":"0","background_url":"","background_mobile_url":"","shop_name":"出海舰队","title":"出海舰队 - 最适合你的出海店铺系统！","keywords":"","description":"出海舰队","notice":"<p><b><font color=\"#f9963b\">本站为开放式注册平台，使用者造成的一切法律后果与本站无关，本站会不定期抽查各店铺违规违法情况，一经发现永久冻结店铺。</font></b></p>","registered_type":"0","registered_verification":"1","login_verification":"1","trade_verification":"1","registered_state":"1","username_len":"6","forget_type":"0","closed_message":"我们正在升级，请耐心等待完成。"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"1253","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:33:27]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:31]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=132","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:31]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=132","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:33:32]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/sms?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=132","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:33:35]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/email?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=132","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/sms","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Cache-Control":"no-cache","Pragma":"no-cache","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:33:43]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/other?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/email","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:33:44]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/getBusiness
+POST数据：{"offset":"0","limit":"5","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/other","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"23","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:34:48]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/other
+POST数据：{"callback_domain":"","domain":"","cname":"","promote_rebate_v1":"0.1","promote_rebate_v2":"0.2","promote_rebate_v3":"0.3","recharge_min":"10","recharge_max":"1000","recharge_welfare":"1","recharge_welfare_config":"100-5\r\n200-15\r\n300-30\r\n500-60","service_qq":"","service_url":"","cash_type_alipay":"1","cash_type_wechat":"1","cash_type_balance":"1","cash_cost":"5","cash_min":"200","default_category":"0","commodity_recommend":"1","commodity_name":"推荐"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/other","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"399","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:35:01]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/other","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:35:02]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/store/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:35:10]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:35:10]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:35:12]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:35:12]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:12]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:13]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/captcha?type=captcha_reg
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:13]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:35:27]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/register
+POST数据：{"username":"emeliedb11996","password":"Aa123789","captcha":"8xik","cookie":{"GOLANG_ID":"cqvf5rBN6ekGJtom3103MKZKr2HKE9yVqFVG7Zho","expires":"Mon, 07-Apr-2025 19:35:13 GMT","path":"/","domain":"store.acgshe.com","httponly":""}}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"251","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:35:38]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/login
+POST数据：{"username":"emeliedb11996","password":"Aa123789"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"40","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:35:39]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Cache-Control":"max-age=0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:39]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:40]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:40]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:40]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:40]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=134","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:35:45]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:35:45]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:35:45]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:06]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/del
+POST数据：{"list":["2"]}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"12","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:06]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=137","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:12]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/user/businessLevel?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:36:13]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/businessLevel/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/businessLevel","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:14]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/user/group?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/businessLevel","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:36:14]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/group/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/group","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:15]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/user/bill?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/group","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:36:15]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/bill/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/bill","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:16]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/recharge/order?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/bill","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:36:17]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/dict/get
+POST数据：{"dict":"pay->id!=1,id,name","keywords":""}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/recharge/order","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"41","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:17]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/rechargeOrder/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/recharge/order","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:36:18]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/user/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/recharge/order","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:36:18]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/user/data
+POST数据：{"offset":"0","limit":"13","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=12","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:37:14]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:37:15]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:37:15]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:37:16]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/log/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:37:16]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/log/data
+POST数据：{"offset":"0","limit":"19","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:42:05]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/log/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:42:10]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:42:10]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:42:10]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:42:12]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:42:12]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:42:14]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:42:15]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:42:15]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:42:17]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/manage/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:42:18]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/manage/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:42:22]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/manage/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:42:23]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:42:25]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:42:25]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:42:25]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:42:25]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:42:28]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1","type":"1","group":"0"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"39","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:03]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"18","limit":"18","page":"2","type":"1","group":"0"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"40","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:12]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"Epusdt","type":"1","plugin_id":"217"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"38","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:12]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:13]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:13]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:14]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:25]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPluginLog
+POST数据：{"handle":"Epusdt"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"13","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:27]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPluginLog
+POST数据：{"handle":"Epusdt"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"13","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:29]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:43:30]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:30]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:30]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:32]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1","type":"1","group":"0"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"39","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:42]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"VmqPay","type":"1","plugin_id":"162"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"38","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:43]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:44]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:44]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:44]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:43:46]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:43:46]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:47]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:43:47]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=212","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:10]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"BuiltPayExtend","type":"1","plugin_id":"11"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"45","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:11]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:11]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:11]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:12]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:13]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:44:13]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:14]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:14]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:18]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"UsdtPay","type":"1","plugin_id":"285"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"39","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:18]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:19]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:19]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:19]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:20]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:44:21]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:21]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:21]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:27]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"18","limit":"18","page":"2"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:31]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"36","limit":"18","page":"3"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:46]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"Font","type":"0","plugin_id":"165"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"36","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:46]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/plugin/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:46]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:47]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:47]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:48]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:44:49]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:49]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:49]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:52]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"36","limit":"18","page":"3"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:55]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"Bank","type":"1","plugin_id":"107"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"36","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:55]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/pay/plugin
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:56]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:56]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:56]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/pay/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:44:57]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/pay/plugin","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:44:57]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:58]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:44:58]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:02]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"36","limit":"18","page":"3"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:12]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"DestroyOrder","type":"0","plugin_id":"39"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"43","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:12]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/plugin/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:13]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:13]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:14]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:14]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:45:14]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:14]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:15]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:17]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"36","limit":"18","page":"3"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:22]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"54","limit":"18","page":"4"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:30]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"VideoBackground","type":"0","plugin_id":"48"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"46","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:31]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/plugin/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:31]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:31]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:32]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:33]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:45:33]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:33]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:33]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:37]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"54","limit":"18","page":"4"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:43]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"ApiNotification","type":"0","plugin_id":"27"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"46","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:43]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/plugin/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:44]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:44]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:44]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:46]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:45:47]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:47]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:47]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:52]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"54","limit":"18","page":"4"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:57]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"Entrance","type":"0","plugin_id":"25"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"39","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:58]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/plugin/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:58]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:58]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:45:58]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/plugin/getPlugins
+POST数据：{"page":"NaN"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"8","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:45:59]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/store/home?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/plugin/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:46:00]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/levels
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:46:00]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/init
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Content-Length":"0","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:46:00]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:46:04]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"54","limit":"18","page":"4"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:46:23]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"72","limit":"18","page":"5"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"25","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:46:46]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/plugins
+POST数据：{"offset":"0","limit":"18","page":"1","type":"2","group":"0"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"39","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:46:54]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/app/install
+POST数据：{"plugin_key":"Magic","type":"2","plugin_id":"9"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"35","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:46:55]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/config/index
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/store/home","Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Upgrade-Insecure-Requests":"1","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:46:55]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/latest
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:46:56]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/api/app/getUpdates
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","X-Requested-With":"XMLHttpRequest","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","Accept":"*/*","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":"","Content-Type":""}
+----------------------------------------
+[2025-04-07 22:47:08]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/setting
+POST数据：{"logo":"/favicon.ico","user_theme":"Magic","user_mobile_theme":"Magic","background_url":"","background_mobile_url":"","shop_name":"出海舰队","title":"出海舰队 - 最适合你的出海店铺系统！","keywords":"","description":"出海舰队","notice":"<p><b><font color=\"#f9963b\">本站为开放式注册平台，使用者造成的一切法律后果与本站无关，本站会不定期抽查各店铺违规违法情况，一经发现永久冻结店铺。</font></b></p>","registered_type":"0","registered_verification":"1","login_verification":"1","trade_verification":"1","registered_state":"1","username_len":"6","forget_type":"0","closed_message":"我们正在升级，请耐心等待完成。"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"1255","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:50:16]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/config/setting
+POST数据：{"logo":"/favicon.ico","user_theme":"Cartoon","user_mobile_theme":"0","background_url":"","background_mobile_url":"","shop_name":"出海舰队","title":"出海舰队 - 最适合你的出海店铺系统！","keywords":"","description":"出海舰队","notice":"<p><b><font color=\"#f9963b\">本站为开放式注册平台，使用者造成的一切法律后果与本站无关，本站会不定期抽查各店铺违规违法情况，一经发现永久冻结店铺。</font></b></p>","registered_type":"0","registered_verification":"1","login_verification":"1","trade_verification":"1","registered_state":"1","username_len":"6","forget_type":"0","closed_message":"我们正在升级，请耐心等待完成。"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=91","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"*/*","Content-Length":"1253","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:50:24]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/cash/index?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/config/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:50:25]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/cash/data
+POST数据：{"offset":"0","limit":"15","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/cash/index","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------
+[2025-04-07 22:50:26]:
+IP地址：27.38.202.54
+请求地址：【GET】 -> http://ka.811192.xyz/admin/user/businessLevel?_pjax=%23pjax-container
+POST数据：[]
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/cash/index","Content-Type":"application/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Pjax-Container":"#pjax-container","X-Pjax":"true","X-Requested-With":"XMLHttpRequest","Accept":"text/html, */*; q=0.01","Connection":"keep-alive","Host":"ka.811192.xyz","Content-Length":""}
+----------------------------------------
+[2025-04-07 22:50:26]:
+IP地址：27.38.202.54
+请求地址：【POST】 -> http://ka.811192.xyz/admin/api/businessLevel/data
+POST数据：{"offset":"0","limit":"17","page":"1"}
+Headers：{"Cookie":"ACG-SHOP=n7suh45m4odl82s0f1ccs24j89; kt_aside_menu_wrapperst=0","Accept-Language":"zh-CN,zh;q=0.9","Accept-Encoding":"gzip, deflate","Referer":"http://ka.811192.xyz/admin/user/businessLevel","Origin":"http://ka.811192.xyz","Content-Type":"application/x-www-form-urlencoded","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.160 Safari/537.36","X-Requested-With":"XMLHttpRequest","Accept":"application/json, text/javascript, */*; q=0.01","Content-Length":"24","Connection":"keep-alive","Host":"ka.811192.xyz"}
+----------------------------------------

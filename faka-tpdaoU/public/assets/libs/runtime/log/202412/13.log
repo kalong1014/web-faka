@@ -1,0 +1,341 @@
+---------------------------------------------------------------
+[ 2024-12-13T00:09:26+08:00 ] 61.7.229.188 POST mwvzv.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033235s] [吞吐率：30.09req/s] [内存消耗：1,152.34kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T02:44:55+08:00 ] 219.77.239.31 POST otif.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.039116s] [吞吐率：25.57req/s] [内存消耗：1,152.39kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T03:11:32+08:00 ] 14.0.159.180 POST otif.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.029154s] [吞吐率：34.30req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T03:16:08+08:00 ] 14.0.159.180 POST otif.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033493s] [吞吐率：29.86req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T03:19:32+08:00 ] 14.0.159.180 POST otif.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.032174s] [吞吐率：31.08req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T03:39:02+08:00 ] 139.177.203.86 POST otif.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.029728s] [吞吐率：33.64req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T03:55:32+08:00 ] 203.75.191.91 POST hwvgzg.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.030430s] [吞吐率：32.86req/s] [内存消耗：1,152.39kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T03:58:41+08:00 ] 185.196.0.11 POST hwvgzg.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.031382s] [吞吐率：31.87req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T04:38:23+08:00 ] 119.237.241.79 POST xyqr.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.030929s] [吞吐率：32.33req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T09:44:06+08:00 ] 205.198.122.27 POST hrwft.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.031803s] [吞吐率：31.44req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T09:49:06+08:00 ] 205.198.122.30 POST hrwft.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.065628s] [吞吐率：15.24req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T12:43:53+08:00 ] 14.175.247.37 POST hwvgzg.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033498s] [吞吐率：29.85req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:06:59+08:00 ] 38.150.67.32 POST nhln.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033395s] [吞吐率：29.94req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:11:14+08:00 ] 38.150.67.33 POST nmwonf.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.034590s] [吞吐率：28.91req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:12:52+08:00 ] 38.150.67.51 POST nmwonf.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.038639s] [吞吐率：25.88req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:12:59+08:00 ] 104.192.92.194 POST nmwonf.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.041093s] [吞吐率：24.33req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:24:48+08:00 ] 101.99.90.171 POST iykvwf.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.030241s] [吞吐率：33.07req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:36:37+08:00 ] 178.236.37.217 POST kbnjyt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033276s] [吞吐率：30.05req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:37:19+08:00 ] 178.236.37.217 POST kbnjyt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.029930s] [吞吐率：33.41req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:38:24+08:00 ] 178.236.37.217 POST kbnjyt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.027709s] [吞吐率：36.09req/s] [内存消耗：1,152.30kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:51:12+08:00 ] 202.43.234.92 POST esalv.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.029595s] [吞吐率：33.79req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:53:04+08:00 ] 202.43.234.93 POST esalv.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.032292s] [吞吐率：30.97req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:53:56+08:00 ] 202.43.234.92 POST esalv.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.031606s] [吞吐率：31.64req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T15:54:24+08:00 ] 202.43.234.89 POST esalv.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.046407s] [吞吐率：21.55req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:10:30+08:00 ] 103.97.2.28 POST esalv.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.032019s] [吞吐率：31.23req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:25:16+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.031938s] [吞吐率：31.31req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:27:08+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.030147s] [吞吐率：33.17req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:28:09+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033138s] [吞吐率：30.18req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:28:16+08:00 ] 103.231.84.160 POST esalv.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.036107s] [吞吐率：27.70req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:28:57+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033013s] [吞吐率：30.29req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:29:26+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.027636s] [吞吐率：36.18req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:47:31+08:00 ] 103.40.79.156 POST xrlfra.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.042653s] [吞吐率：23.45req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:51:32+08:00 ] 203.75.191.91 POST innf.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033350s] [吞吐率：29.99req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:51:39+08:00 ] 203.75.191.91 POST innf.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.039427s] [吞吐率：25.36req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:57:09+08:00 ] 18.142.252.227 POST tkxve.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.025288s] [吞吐率：39.54req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T16:59:48+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.035728s] [吞吐率：27.99req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T17:01:33+08:00 ] 61.152.201.158 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.035037s] [吞吐率：28.54req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T17:11:35+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.034193s] [吞吐率：29.25req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T17:17:44+08:00 ] 103.223.122.193 POST lylb.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.028225s] [吞吐率：35.43req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T17:19:48+08:00 ] 115.127.227.131 POST hwvgzg.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033934s] [吞吐率：29.47req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T17:26:42+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.028242s] [吞吐率：35.41req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T18:54:04+08:00 ] 14.135.207.110 POST otif.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.027766s] [吞吐率：36.02req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T19:10:42+08:00 ] 103.43.162.184 POST fizlej.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.031901s] [吞吐率：31.35req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T19:19:48+08:00 ] 185.196.0.14 POST hwvgzg.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.029264s] [吞吐率：34.17req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T19:48:15+08:00 ] 171.213.86.80 POST tvatt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.030074s] [吞吐率：33.25req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T19:48:18+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.028282s] [吞吐率：35.36req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T20:29:37+08:00 ] 111.55.36.142 POST wmzwb.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.062735s] [吞吐率：15.94req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T20:30:13+08:00 ] 111.55.36.142 POST wmzwb.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.041904s] [吞吐率：23.86req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T20:31:09+08:00 ] 180.141.109.165 POST tvvhko.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.031000s] [吞吐率：32.26req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T20:33:53+08:00 ] 45.138.210.156 POST rojdt.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.053532s] [吞吐率：18.68req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T20:55:04+08:00 ] 117.188.39.255 POST msod.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.050661s] [吞吐率：19.74req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T20:56:29+08:00 ] 2.49.188.49 POST tvvhko.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.036786s] [吞吐率：27.18req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:09:24+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.052417s] [吞吐率：19.08req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:11:31+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033048s] [吞吐率：30.26req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:13:16+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.030982s] [吞吐率：32.28req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:15:34+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.031065s] [吞吐率：32.19req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:15:43+08:00 ] 114.37.225.88 POST nwgxex.zahuopu.shop/assets/libs/options/insertFish.php
+[运行时间：0.037047s] [吞吐率：26.99req/s] [内存消耗：1,086.09kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:17:13+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.029818s] [吞吐率：33.54req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:18:15+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.040717s] [吞吐率：24.56req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:20:37+08:00 ] 45.90.208.161 POST ephn.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033199s] [吞吐率：30.12req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:27:49+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.034145s] [吞吐率：29.29req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:43:10+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.033712s] [吞吐率：29.66req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:45:08+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.028597s] [吞吐率：34.97req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T21:52:41+08:00 ] 27.29.78.121 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.034749s] [吞吐率：28.78req/s] [内存消耗：1,152.36kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T22:02:43+08:00 ] 223.104.67.239 POST wzis.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.034885s] [吞吐率：28.67req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T22:17:33+08:00 ] 114.134.190.73 POST tvvhko.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.048750s] [吞吐率：20.51req/s] [内存消耗：1,161.59kb] [文件加载：23]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/www/wwwroot/zahuopu.shop/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2024-12-13T23:07:18+08:00 ] 101.44.81.2 POST hrwft.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.129964s] [吞吐率：7.69req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2024-12-13T23:15:35+08:00 ] 178.236.37.217 POST nwgxex.zahuopu.shop/assets/libs/trade/pay.php
+[运行时间：0.052725s] [吞吐率：18.97req/s] [内存消耗：1,152.33kb] [文件加载：17]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
