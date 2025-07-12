@@ -1,0 +1,1 @@
+{"appid":"101278554","appkey":"4b08cb00d1aa5262db984ca9856b4c39","callback":"http://www.hzskdz.com/reg/qqreturnlast.php","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
